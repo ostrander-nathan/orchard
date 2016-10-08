@@ -1,0 +1,23 @@
+{
+  "name": "orchard",
+  "description": "growing some trees",
+  "main": "js/main.js",
+  "authors": [
+    "Nathan Ostrander <ostrander_nathan@yahoo.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "trees"
+  ],
+  "homepage": "https://github.com/ostrander-nathan/orchard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
